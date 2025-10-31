@@ -283,11 +283,3 @@ lib.dialog('start', [
 If you're not already logged, the bot will invite you to log in, using your teams account, by default:
 
 ![prompt login](assets/chat02.png)
-
-![consents](assets/consent.png)
-
-If you need any assistance, or if you have any questions, do not hesitate to fill an issue or contact me by twitter [@sebpertus](http://www.twitter.com/sebpertus).
-
-And a big thanks to [rasmusjuhl](https://github.com/rasmusjuhl) for his help !
-
-Seb
